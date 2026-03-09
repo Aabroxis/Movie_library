@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+mariadb
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+pydantic-settings
+pytest
