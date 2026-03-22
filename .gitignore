@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (ВАЖНО - тук са паролите ти!)
+.env
+
+# VS Code
+.vscode/
+
+# Database файлове (ако имаш)
+*.db
+*.sqlite3
+
+# OS файлове
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
